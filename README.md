@@ -5,19 +5,6 @@ Bu depo, bir araç kiralama app projesi içermektedir. Proje, kullanıcılara ar
 -HTML
 -CSS
 
-# Ekran-Görüntüleri
-![](images/Ekran%20Alıntısı1.PNG)
-
-![](images/Ekran%20Alıntısı2.PNG)
-
-![](images/Ekran%20Alıntısı3.PNG)
-
-![](images/Ekran%20Alıntısı4.PNG)
-
-![](images/Ekran%20Alıntısı5.PNG)
-
-![](images/Ekran%20Alıntısı6.PNG)
-
 # GIF
 ![](images/carrentalgif1.gif)
  
